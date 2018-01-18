@@ -9,7 +9,6 @@ Here is solution — UnGUI.
 
 ## Screenshots
 ![](./imgs/1.png)
-
 ![](./imgs/2.png)
 
 ## Features
